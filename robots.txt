@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marlboronews.github.io/rokok/sitemap.xml
